@@ -136,17 +136,9 @@ python src/visualization/advanced_visualization.py
 - **Scikit-learn**: 머신러닝 알고리즘
 - **Matplotlib & Seaborn**: 데이터 시각화
 
-## 👤 Author
-
-[Your Name]
-
-## � 라이선스
+## 라이선스
 
 이 프로젝트는 MIT 라이선스 하에 배포됩니다.
-
-## 📞 문의
-
-프로젝트에 대한 질문이나 피드백은 [your-email@example.com]으로 연락주세요.
 
 ---
 
